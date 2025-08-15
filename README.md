@@ -1,55 +1,66 @@
 # 👋 Hi, I'm Ahmed Mahmoud
 
-🚀 **.NET Backend Developer** | Passionate about building clean, scalable, and maintainable applications.  
+🚀 ** .NET Backend Developer** | Passionate about building clean, scalable, and maintainable applications.  
 💡 Always learning, improving, and exploring new technologies.
 
 ---
 
 ## 🧑‍💻 About Me
-I’m **Ahmed Mahmoud**, a dedicated and detail-oriented **Junior Backend Developer** specializing in the Microsoft .NET ecosystem.  
-I graduated in **2023** with a degree in Software Engineering, where I built a solid foundation in **data structures, algorithms, and database systems**.  
+I’m **Ahmed Mahmoud**, a dedicated and detail-oriented ** Backend Developer** specializing in the Microsoft .NET ecosystem.  
+I graduated in **2023** with a degree in Software Engineering, where I built a strong foundation in **data structures, algorithms, and database systems**.  
 
-My main focus is developing reliable and maintainable backend systems using **C#**, **ASP.NET Core MVC**, and **Entity Framework Core**.  
-I believe in writing **clean code** and following **SOLID principles** to ensure long-term scalability of my projects.  
+My main focus is building reliable and maintainable backend systems using **C#**, **ASP.NET Core MVC**, and **Entity Framework Core**.  
+I believe in writing **clean code** and following **SOLID principles** to ensure scalability and easy maintenance.  
 
-When I’m not coding, you can find me learning about new tools, experimenting with side projects, or watching football 
-
-**Highlights:**
-- 🎓 Software Engineering Graduate  
-- 📍 Based in Egypt  
-- 🔹 Specializing in **Backend Development**  
-- 🔹 Experienced with **SQL Server**, **Entity Framework Core**, **LINQ**  
-- 🔹 Comfortable with **HTML, CSS, JavaScript** for frontend basics  
-- 📚 Currently exploring **Entity Framework Core 9** and advanced **design patterns**  
+When I’m not coding, you can find me learning new technologies, experimenting with side projects, or watching football — I’m a huge fan of **Mohamed Salah** ⚽.
 
 ---
 
-## 🛠 Tech Stack
+## 💻 Languages
 
-### **Languages & Frameworks**
-- **Backend:** C#, ASP.NET Core MVC, Entity Framework Core, SQL Server
-- **Frontend:** HTML5, CSS3, JavaScript
-- **Other:** LINQ, Razor Pages, AJAX
-
-### **Tools & Platforms**
-- Git & GitHub  
-- Visual Studio / VS Code  
-- SQL Server Management Studio (SSMS)  
-- Postman  
-- Microsoft Azure (Basics)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7E017?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E44D26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-264DE4?style=for-the-badge&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats
+## 🌐 Front-End
 
-![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AhmedMahmoud&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedMahmoud&layout=compact&theme=tokyonight)
+![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7E017?style=for-the-badge&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E44D26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-264DE4?style=for-the-badge&logo=css3&logoColor=white)
+
+---
+
+## 🛠 Back-End
+
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Entity Framework Core](https://img.shields.io/badge/Entity%20Framework%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![LINQ](https://img.shields.io/badge/LINQ-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 ---
 
-## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AhmedMahmoud)
+## 🗄 Databases
+
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ---
+
+## 🔥 My Stats
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=dark&background=000000)  
+![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=dark&count_private=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=dark)
+
+---
+
 ⭐ *Always open to collaboration and new opportunities!*
