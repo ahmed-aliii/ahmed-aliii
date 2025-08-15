@@ -57,10 +57,20 @@ When I’m not coding, you can find me learning new technologies, experimenting 
 
 ## 🔥 My Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=dark&background=000000)  
-![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=dark&count_private=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=dark)
+<!-- Streak card (the one with Total Contributions / Current Streak / Longest Streak) -->
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR-USERNAME&theme=monokai-metallian&hide_border=true" alt="GitHub Streak"/>
+</p>
 
+<!-- Most Used Languages (stacked bar with legend, like your screenshot) -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YOUR-USERNAME&theme=monokai" alt="Most Used Languages"/>
+</p>
+
+<!-- Overall Stats (stars, commits this year, PRs, issues, contributed to + grade circle) -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YOUR-USERNAME&theme=monokai" alt="GitHub Stats Summary"/>
+</p>
 ---
 
 ⭐ *Always open to collaboration and new opportunities!*
