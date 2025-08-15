@@ -55,22 +55,4 @@ When I’m not coding, you can find me learning new technologies, experimenting 
 
 ---
 
-## 🔥 My Stats
-
-<!-- Streak card (the one with Total Contributions / Current Streak / Longest Streak) -->
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR-USERNAME&theme=monokai-metallian&hide_border=true" alt="GitHub Streak"/>
-</p>
-
-<!-- Most Used Languages (stacked bar with legend, like your screenshot) -->
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YOUR-USERNAME&theme=monokai" alt="Most Used Languages"/>
-</p>
-
-<!-- Overall Stats (stars, commits this year, PRs, issues, contributed to + grade circle) -->
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YOUR-USERNAME&theme=monokai" alt="GitHub Stats Summary"/>
-</p>
----
-
 ⭐ *Always open to collaboration and new opportunities!*
